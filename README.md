@@ -5,6 +5,7 @@ Full-Stack Web Developer in London.
 I build web apps and write Building the Web, a guide from your first HTML page to a deployed full-stack app.
 
 **Now building**
+- [web-projects](https://github.com/sami/web-projects): web projects from responsive pages to full-stack apps, each with notes on how it works
 - [grav-plugin-visitor-insights](https://github.com/sami/grav-plugin-visitor-insights): cookie-free visitor analytics for Grav 2
 
 **Stack:** HTML, CSS, JavaScript, TypeScript, React, Astro, Node.js, Python, PostgreSQL
